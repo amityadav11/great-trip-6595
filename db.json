@@ -1,0 +1,68 @@
+{
+  "pizzas": [
+    {
+      "title": "Peppy Paneer",
+      "quantity": 0,
+      "category": "veg",
+      "description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika'",
+      "favorite": false,
+      "id": 0,
+      "crust": "New Hand Tossed",
+      "size": "Medium",
+      "availableCrusts": {
+        "Regular": {
+          "New Hand Tossed": "215",
+          "Cheese Burst": "290",
+          "Fresh Pan Pizza": "245",
+          "Classic Hand Tossed": "215"
+        },
+        "Medium": {
+          "New Hand Tossed": "395",
+          "Cheese Burst": "494",
+          "Fresh Pan Pizza": "435",
+          "Wheat Thin Crust": "445"
+        },
+        "Large": {
+          "New Hand Tossed": "595"
+        }
+      },
+      "availableSizes": ["Regular", "Medium", "Large"],
+      "extraCheese": "false",
+      "vegToppings": [],
+      "nonVegToppings": [],
+      "customised": false
+    },
+    {
+      "title": "Deluxe Veggie",
+      "quantity": 0,
+      "category": "veg",
+      "description": "Veg delight - onion, capsicum, grilled mushroom, corn & paneer",
+      "favorite": false,
+      "id": 1,
+      "crust": "New Hand Tossed",
+      "size": "Medium",
+      "availableCrusts": {
+        "Regular": {
+          "New Hand Tossed": "235",
+          "Cheese Burst": "310",
+          "Fresh Pan Pizza": "265",
+          "Classic Hand Tossed": "235"
+        },
+        "Medium": {
+          "New Hand Tossed": "450",
+          "Cheese Burst": "549",
+          "Fresh Pan Pizza": "490",
+          "Wheat Thin Crust": "500"
+        },
+        "Large": {
+          "New Hand Tossed": "695"
+        }
+      },
+      "availableSizes": ["Regular", "Medium", "Large"],
+      "extraCheese": false,
+      "vegToppings": [],
+      "nonVegToppings": [],
+      "customised": false
+    }
+  ]
+}
